@@ -39,7 +39,8 @@
       "courses": [ "ICS 211, 212, 141, 241, 311" ]
     }
   ],
-  /*"work": [
+  <!--
+  "work": [
   ],
   "volunteer": [
     {
@@ -68,7 +69,8 @@
       "awarder": "",
       "summary": ""
     }
-  ],*/
+  ],
+  -->
   "references": [
     {
       "name": "Available upon request"
