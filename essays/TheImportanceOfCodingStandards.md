@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/MLA Format Rules.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/MLA Format Rules.png">
 
 <h2>What are they, and why use them?</h2>
 
