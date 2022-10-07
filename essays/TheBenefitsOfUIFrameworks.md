@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Benefits of Using UI Frameworks"
+title: "The Benefits of UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2022-10-06
 published: true
