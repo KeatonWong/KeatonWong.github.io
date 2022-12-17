@@ -6,9 +6,9 @@ title: "Virtual Campus Tour"
 date: 2022-12-13
 published: true
 labels:
-- Website
-- Meteor
-- JavaScript
+  - Website
+  - Meteor
+  - JavaScript
   summary: "My group made a virtual campus tour for our Software Engineering class."
 ---
 
