@@ -16,7 +16,7 @@ Whenever I heard peers talk about what experience they had in Computer Science, 
 
 <div class="row my-4">
   <div class="col-3">
-    <img class="rounded float-start pe-4 img-fluid" src="../img/A history of browsers.png">
+    <img class="rounded float-start pe-4 img-fluid" src="../img/A history of browsers.png" alt="My First Webpage">
   </div>
   <div class="col">
     <h2>My First Webpage</h2>
@@ -26,7 +26,7 @@ Whenever I heard peers talk about what experience they had in Computer Science, 
 
 <div class="row my-4">
   <div class="col-3">
-    <img class="rounded float-start pe-4 img-fluid" src="../img/Republik.png">
+    <img class="rounded float-start pe-4 img-fluid" src="../img/Republik.png" alt="Republik Mockup Image">
   </div>
   <div class="col">
     <h2>The Benefits</h2>

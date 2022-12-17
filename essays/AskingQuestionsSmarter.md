@@ -4,13 +4,13 @@ type: essay
 title: "Asking Questions Smarter"
 # All dates must be YYYY-MM-DD format!
 date: 2022-09-08
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/Question Mark.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/Question Mark.jpg" alt="Question Mark Image">
 
 In classrooms, nowadays teachers often encourage their students to ask questions, generally because "another student might have the same question." However, they almost never teach how to ask questions better. Somehow, like listening, question-asking seems to be an underacknowledged skill. Asking questions better results in not only more answers in general, but more complete answers, and answers that are more specific to your question. If one were to simply ask, "why does my code not work?", an answerer would need to find out the objective of the program, the intent of the programmer, and a solution that is similar to the programmer's code, so that they actually understand the answer. This does not include the fact that there are often multiple solutions to a problem in the coding world, that each have their strengths and weaknesses. Explaining all of this to someone who may simply just be looking for a solution so that they can get their homework done and go do other things is probably not worth it to most people. Let's take a look at a couple of examples.
 

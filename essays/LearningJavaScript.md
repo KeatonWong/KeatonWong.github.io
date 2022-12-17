@@ -4,13 +4,13 @@ type: essay
 title: "Learning JavaScript"
 # All dates must be YYYY-MM-DD format!
 date: 2022-08-31
-published: true
+published: false
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript.png">
+<img width="100px" class="rounded float-start pe-4" src="../img/JavaScript.png" alt="JavaScript Icon">
 
 Coming into ICS 314, I had only learned Java, C, and C++. I first learned Java in my AP Computer Science class, and did very well in that class. It was the same when I took ICS 211. When I took ICS 212, I found C and C++ to be quite difficult for me. I took that class a long time ago, and it was the last time I had actually coded something until now, so I wasn't feeling very confident in jumping right back into it by learning a new language, let alone multiple. However, perhaps due to its similarity to Java - my strongest language - JavaScript is seeming to come much easier to me. 
 

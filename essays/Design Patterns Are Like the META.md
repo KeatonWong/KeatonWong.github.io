@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui large rounded centered image pe-4" src="../img/Kai'Sa Stats.png">
+<img class="ui large rounded centered image pe-4" src="../img/Kai'Sa Stats.png" alt="Kai'Sa Stats Image" height="450">
 
 <h2>What is the "meta"?</h2>
 
