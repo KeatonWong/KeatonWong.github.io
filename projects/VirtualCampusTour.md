@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Virtual Campus Tour Landing Page.png
+image: img/Virtual Campus Tour Landing Page (Square).png
 title: "Virtual Campus Tour"
 date: 2022-12-13
 published: true
