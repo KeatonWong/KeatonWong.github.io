@@ -20,7 +20,7 @@ Normally, the groups are given a list of project ideas to bring to life, but our
 
 A user of our site can see general information about UH Manoa like dining areas, study areas, financial information, etc. Also, it has information about the ICS department, like clubs and research projects. Currently, we only have information about the ICS department, but our end goal (beyond this class) was to expand it to a list of different colleges (like the College of Natural Sciences) with a list of their departments (like adding the Biology department to the College of Natural Sciences).
 
-<img class="ui large rounded centered image pe-4" src="../img/Virtual Campus Tour My Interests Page.png" alt="Roko's Basilisk Image" width="500">
+<img class="ui large rounded centered image pe-4" src="../img/Virtual Campus Tour My Interests Page.png" alt="Virtual Campus Tour My Interests Page" width="500">
 
 <h2>My Contributions</h2>
 
