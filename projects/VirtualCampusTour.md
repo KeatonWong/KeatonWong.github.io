@@ -9,7 +9,7 @@ labels:
   - Website
   - Meteor
   - JavaScript
-  summary: "My group made a virtual campus tour for our Software Engineering class."
+summary: "My group made a virtual campus tour for our Software Engineering class."
 ---
 
 <h2>How it Began</h2>
