@@ -11,8 +11,6 @@ labels:
 - Ethics
 ---
 
-<img class="ui large rounded centered image pe-4" src="../img/Roko's Basilisk.png" alt="Roko's Basilisk Image" width="500">
-
 <h2>Scary Start</h2>
 
 At the beginning of the semester, my software engineering class scared me. It had been a while since I last programmed anything, so I wasn't sure if I still had the skills to be able to do well. I was also worried, because I was scared of a class that's extremely important for my major. Then, before I knew it, we had our first WOD (Workout of the Day, basically a weekly quiz). I passed! We started out with JavaScript and it felt just like what I did in previous classes with Java, so it was perfect for helping me get back into the right mindset and start pushing myself to reach new heights. It would prove to be crucial too, because this software engineering class was the first programming class that taught me more than just how to make my code work.
@@ -20,6 +18,8 @@ At the beginning of the semester, my software engineering class scared me. It ha
 <h2>Consistency in Code</h2>
 
 Arguably one of the most important aspects in computer science, having coding standards is something that I hadn't thought much of before this class. Coding standards are rules/guidelines of how to format code so that it's easier to read and understand. Whenever I helped my friends or classmates with their code in previous classes, I always thought that it would be nice if everyone had written their code in a similar way - since some people indented or named things differently, some did things like put brackets on separate lines, and everyone put different pieces of code (like methods in Java) in different areas of the file. I kind of enjoyed the challenge of understanding everyone's style and sometimes changing how I worded my advice to suit them, but at the same time, it was a little annoying when I didn't agree much with their style. I only started to realize how important coding standards are when we began the group project. Everyone wrote their code differently, which was surprising because we were all in the same class! Beyond just coding, the concept behind coding standards showed even in things like naming the GitHub branches. I knew that if all of us named branches differently, it would be very difficult to find specific ones, so I suggested that either one person make all of the branches or that we name them like the majority of the branches at the time. Thinking back on it, though I may wish we named them slightly differently, the most important thing is consistency.
+
+<img class="ui large rounded centered image pe-4" src="../img/Roko's Basilisk.png" alt="Roko's Basilisk Image" width="500">
 
 <h2>Ethics in Programming</h2>
 
