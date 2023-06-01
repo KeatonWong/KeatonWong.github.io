@@ -5,7 +5,7 @@
     "picture": "https://github.com/keatonwong.png",
     "email": "keatonw@hawaii.edu",
     "website": "https://KeatonWong.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2024.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "KeatonWong", "url": "http://github.com/KeatonWong" },
@@ -14,7 +14,6 @@
   },
   "interests": [
     { "name": "Video Games" },
-    { "name": "Neuromorphic Computing" },
     { "name": "Quantum Computing" },
     { "name": "Astronomy" },
     { "name": "Formula 1 Racing" }
@@ -22,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "Java", "JavaScript", "C/C++", "Meteor", "React", "Bootstrap" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,11 +31,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science (expected Spring 2024)",
       "studyType": "B.S.",
       "startDate": "2019-09-01",
       "endDate": "Present",
-      "courses": [ "ICS 211, 212, 141, 241, 311" ]
+      "courses": [ "ICS 211, 212, 141, 241, 311, 314, 312, 321, 451" ]
     }
   ],
   "references": [
