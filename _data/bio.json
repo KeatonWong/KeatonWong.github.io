@@ -5,7 +5,7 @@
     "picture": "https://github.com/keatonwong.png",
     "email": "keatonw@hawaii.edu",
     "website": "https://KeatonWong.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "KeatonWong", "url": "http://github.com/KeatonWong" },
@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "Java", "JavaScript", "C/C++", "Meteor", "React", "Bootstrap" ]
+      "keywords": [ "Java", "JavaScript", "HTML/CSS", "C/C++", "Meteor", "MongoDB", "React", "Bootstrap", "SQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -31,11 +31,21 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring 2024)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
+      "startDate": "2019-08-01",
       "endDate": "Present",
-      "courses": [ "ICS 211, 212, 141, 241, 311, 314, 312, 321, 451" ]
+      "gpa": "3.11",
+      "courses": [ 
+        "ICS 141, 241 - Discrete Mathematics for Computer Science I, II", 
+        "ICS 211 - Introduction to Computer Science II", 
+        "ICS 212 - Program Structure", 
+        "ICS 311 - Algorithms", 
+        "ICS 312 - Machine-Level and Systems Programming", 
+        "ICS 314 - Software Engineering I", 
+        "ICS 321 - Database Systems I", 
+        "ICS 451 - Data Networks"
+      ]
     }
   ],
   "references": [
